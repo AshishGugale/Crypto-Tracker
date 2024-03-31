@@ -33,6 +33,10 @@ body {
   outline: none;
 }
 
+.dead{
+  color: red;
+}
+
 .btn:hover,
 .btn:focus-visible {
   background: hsl(200, 100%, 50%, 0.2);
